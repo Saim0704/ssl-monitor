@@ -1,0 +1,1 @@
+recipient1@gmail.com,recipient2@yahoo.com
